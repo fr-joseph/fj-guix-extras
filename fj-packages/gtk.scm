@@ -1,4 +1,4 @@
-(define-module (fj-guix-extras packages gtk)
+(define-module (fj-packages gtk)
   #:use-module (guix build-system copy)
   #:use-module (guix git-download)
   #:use-module (guix packages)
